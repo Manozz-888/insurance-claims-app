@@ -9,6 +9,7 @@
 
 ## 🎯 **Live Demo**
 **🔗 [View Live Application](https://manozz-888.github.io/insurance-claims-app/)** *(Deploy coming soon)*
+**Note:** This project is on the `master` branch. Make sure you're viewing the correct branch to see all project files.
 
 ---
 
