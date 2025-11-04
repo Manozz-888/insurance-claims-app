@@ -270,8 +270,9 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 **Manozz-888**
 - 🌐 **GitHub**: [@Manozz-888](https://github.com/Manozz-888)
-- 📧 **Email**: [my-email](manojkumaramrutha700@gmail.com)
+- 📧 **Email**: [my-email] manojkumaramrutha700@gmail.com
 - 💼 **LinkedIn**: [my LinkedIn Profile](https://www.linkedin.com/in/manoj-kumar-amrutha-91299a374)
+-    **cantact** : 8886718096
 
 ---
 
